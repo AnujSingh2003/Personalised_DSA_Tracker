@@ -1,6 +1,7 @@
-Sure, here is a description along with the commands for running your DSA Tracker React.js project that you can add to your GitHub README file:
+![front page](https://github.com/AnujSingh2003/Personalised_DSA_Tracker/assets/103198168/de586f9c-69ad-4e28-80d1-c465ef8244ff)
+![front1page](https://github.com/AnujSingh2003/Personalised_DSA_Tracker/assets/103198168/a98b5027-b724-4f17-b883-8d594ab00978)
+![Completed](https://github.com/AnujSingh2003/Personalised_DSA_Tracker/assets/103198168/e1d205cd-a523-4576-a7aa-c4d35b766863)
 
----
 
 ## DSA Tracker
 
